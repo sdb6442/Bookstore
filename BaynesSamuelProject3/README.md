@@ -55,6 +55,8 @@ FILE STRUCTURE
 ├── ProductInventory-1.csv
 ├── README.md
 
+CONTRIBUTING
+Created by Samuel Baynes.  Feel free to comment, but please do not alter code.
 
 LICENSE
 MIT License
