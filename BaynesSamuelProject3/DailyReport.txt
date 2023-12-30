@@ -1,0 +1,19 @@
+**** DAILY REPORT ****
+
+Total Sales:  $48.28
+
+Total Revenue:  $48.28
+
+Number of Products Sold: 3
+
+Products Sold: 
+ITEM# 1 >> ITEM ID: 2 >>> 1984 >>> $15.99
+ITEM# 2 >> ITEM ID: 3 >>> to kill a mockingbird >>> $12.99
+ITEM# 3 >> ITEM ID: 6 >>> brave new world >>> $19.0
+
+Number of New Members: 0
+
+New Members: NONE
+Daily Discounted Item: ITEM ID: 2 >>> 1984 >>> $15.99
+
+Number of Daily Discounted Items Sold: 1

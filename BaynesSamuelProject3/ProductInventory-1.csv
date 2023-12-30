@@ -1,0 +1,17 @@
+productID,type,title,author/artist/director,numInStock,price,yearReleased,nyBestSeller,rating,chartRanking
+1,book,fahrenheit 451,ray bradbury,8,9.99,1953,TRUE,n/a,n/a
+2,book,1984,george orwell,5,15.99,1949,TRUE,n/a,n/a
+3,book,to kill a mockingbird,harper lee,12,12.99,1960,TRUE,n/a,n/a
+4,book,beloved,toni morrison,4,13.5,1987,TRUE,n/a,n/a
+5,book,the little prince,antoine de saint exupéry,10,7,1943,TRUE,n/a,n/a
+6,book,brave new world,aldous huxley,15,19,1932,FALSE,n/a,n/a
+7,book,charlotte's web,e.b. white,10,8.99,1952,TRUE,n/a,n/a
+8,book,hitchhiker's guide to the galaxy,douglas adams,5,9.99,1979,TRUE,n/a,n/a
+9,book,catch-22,joseph heller,20,11.99,1961,TRUE,n/a,n/a
+10,book,flowers for algernon,daniel keyes,7,6.99,1959,TRUE,n/a,n/a
+11,cd,a night at the opera,queen,14,6.99,1975,n/a,n/a,4
+12,cd,cuz I love you,lizzo,8,7.99,2019,n/a,n/a,4
+13,cd,a hard day's night,the beatles,3,3.99,1964,n/a,n/a,1
+14,dvd,the dark knight,christopher nolan,5,12.99,2012,n/a,PG-13,n/a
+15,dvd,jurassic park,stephen spielberg,7,7.99,1993,n/a,PG-13,n/a
+16,dvd,deadpool,David Leitch,8,14.99,2016,n/a,R,n/a
