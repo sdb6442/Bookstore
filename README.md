@@ -1,6 +1,6 @@
 # Bookstore README
 
-TABLE OF CONTENTS
+## TABLE OF CONTENTS
 1. Introduction
 2. Prerequisites
 3. Usage
@@ -8,14 +8,14 @@ TABLE OF CONTENTS
 5. Contributing
 6. License
 
-INTRODUCTION
+## INTRODUCTION
 This project is a bookstore management system for keeping track of inventory (CDs, Books, and DVDs) and members. This program was created, using NetBeans (IDE) for an intermediate level Computer Science course at UNC Charlotte.
 
-PREREQUISITES
+## PREREQUISITES
 Java 21.0.1
 CSV extenstion (i.e. Rainbow CSV for VS Code)
 
-USAGE
+## USAGE
 1. Clone Repository
     git clone https://github.com/sdb6442/Bookstore.git
     cd Bookstore
@@ -24,7 +24,7 @@ USAGE
 4. Open in new Java project
 5. Run from Main class
 
-FILE STRUCTURE
+## FILE STRUCTURE
 
 ├── BAYNESSAMUELPROJECT3/
 │   ├── build/
@@ -55,10 +55,10 @@ FILE STRUCTURE
 ├── ProductInventory-1.csv
 ├── README.md
 
-CONTRIBUTING
+## CONTRIBUTING
 Created by Samuel Baynes.  Feel free to comment, but please do not alter code.
 
-LICENSE
+## LICENSE
 MIT License
 
 Copyright (c) 2023, Samuel Baynes
